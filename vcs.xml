@@ -1,5 +1,13 @@
 <application>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/my-wok/MyWok_Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="C:\Users\aceve\Documents\Work\Altomobile" />
   </component>
 </application>
